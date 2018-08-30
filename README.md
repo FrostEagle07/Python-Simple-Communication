@@ -8,6 +8,6 @@ What you will have to specify for the client application:
 What you will have to specify for the server application:
 - Port on which establish socket
 
-What you will need for running py files:
+What you will need for running the .py files:
 - A working version of python (might not work under version 3.6 of python)
 - No librairies needed, this scripts use the standard library
