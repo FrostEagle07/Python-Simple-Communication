@@ -1,5 +1,6 @@
 # Python-Simple-Communication
 Two simple python script creating a server and a client for easy communication between computers
+(! You must allow the other computer through your firewall or the connexion will fail !)
 
 What you will have to specify for the client application:
 - Server adress to connect
